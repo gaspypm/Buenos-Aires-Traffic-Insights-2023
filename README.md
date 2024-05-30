@@ -8,7 +8,7 @@ This repository contains a Jupyter Notebook that analyzes vehicle traffic data i
 To run the notebook, you need to have Python installed. You can install the required libraries using pip:
 
 ```bash
-pip install pandas matplotlib
+pip install pandas matplotlib seaborn
 ```
 
 ## Usage
